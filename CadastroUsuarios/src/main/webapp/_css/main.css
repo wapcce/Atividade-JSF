@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+.inputField {
+	width: 300px;
+	padding: 8px;
+	margin: 5px 0;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	text-align: right;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+}
+
+.submitButton {
+	background-color: #28a745;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+}
+
+.submitButton:hover {
+	background-color: #218838;
+}
+
+.nomeLabel {
+	color: #333;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: right;
+}
+
+.nomeInserido {
+	color: #333;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	text-align: right;
+	margin: 5px 0;
+}
+
+h1 {
+	text-align: center;
+	color: #333;
+	font-family: Arial, sans-serif;
+}
+
+p {
+	margin: 10px 0;
+	text-align: right;
+}
